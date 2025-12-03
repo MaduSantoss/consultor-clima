@@ -38,9 +38,3 @@ python clima.py
 ```
 
 -----
-
-*Este projeto faz parte da minha jornada de aprendizado em Python.*
-
-````
-
----
